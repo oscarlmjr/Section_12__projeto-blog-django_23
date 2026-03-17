@@ -5,6 +5,8 @@ guinicorn-error-log
 __localcode
 /data/
 
+resources.txt
+
 # Django #
 *.log
 *.pot
